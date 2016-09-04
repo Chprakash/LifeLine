@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="business" match-name="applogincredentials"/>
+  <table-filter match-catalog="business" match-name="businesscontact"/>
+  <table-filter match-catalog="business" match-name="businesssrc"/>
+  <table-filter match-catalog="business" match-name="consumercontact"/>
+  <table-filter match-catalog="business" match-name="consumers"/>
+  <table-filter match-catalog="business" match-name="otp"/>
+  <table-filter match-catalog="business" match-name="persistent_logins"/>
+  <table-filter match-catalog="business" match-name="role"/>
+  <table-filter match-catalog="business" match-name="user"/>
+  <table-filter match-catalog="business" match-name="user_role"/>
+</hibernate-reverse-engineering>
